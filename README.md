@@ -32,7 +32,7 @@ Francesca's French Bakery project involves creating a system to manage ingredien
 - **Data Validation:** Dropdown lists for selecting ingredients and quantities.
 - **Formulas:** To calculate weekly amounts needed and items to be purchased.
 - **IFNA Function:** To handle #N/A errors gracefully.
-- **VLOOKUP/HLOOKUP:** For ingredient unit lookup and calculations.
+- **VLOOKUP/XLOOKUP/OFFSET:** For ingredient unit lookup and calculations.
 - **Conditional Formatting:** To dynamically update units of measure.
 
 **Learnings:**
@@ -49,10 +49,11 @@ The Top Hat Consolidator project involves creating a dashboard to consolidate an
 
 **Techniques/Functions Used:**
 - **Data Validation:** Dynamic dropdown lists for selecting students and questions.
-- **SUM and AVERAGE Functions:** For calculating scores and averages.
+- **VLOOKUP, XLOOKUP, OFFSET, and AVERAGE Functions:** For calculating scores, handle tables, and averages.
 - **Conditional Data Validation:** For dependent dropdown lists.
 - **VBA:** For resetting dropdown lists and dynamic updates.
 - **Array Formulas:** For calculating dynamic class averages.
+- **Matrix Calculus:**  MMult, Transpose Functions
 
 **Learnings:**
 - Creating complex dashboards with dynamic data validation.
