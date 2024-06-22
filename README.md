@@ -72,10 +72,8 @@ Feel free to explore the projects and their solutions in the respective director
 
 💻 **Explore the repository and the projects within!** 🖥️
 
----
-
 👾 Happy coding! 🥷
 
 ---
 
-**Repository Structure:**
+**email: fordonezaraujo@gmail.com**
