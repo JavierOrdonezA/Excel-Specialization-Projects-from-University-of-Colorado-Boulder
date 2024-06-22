@@ -76,4 +76,4 @@ Feel free to explore the projects and their solutions in the respective director
 
 ---
 
-**email: fordonezaraujo@gmail.com**
+**F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
