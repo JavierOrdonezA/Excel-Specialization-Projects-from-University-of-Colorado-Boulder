@@ -2,7 +2,7 @@
 
 This repository contains three projects completed as part of the Excel specialization course at the University of Colorado Boulder. Each project demonstrates the application of advanced Excel techniques and functions to solve real-world problems.
 
-[**Course Link: Everyday Excel Specialization**](https://www.coursera.org/specializations/everyday-excel?)
+[**Course Link:Everyday Excel Specialization**](https://www.coursera.org/specializations/everyday-excel?)
 
 ## Projects Overview
 
