@@ -75,5 +75,6 @@ Feel free to explore the projects and their solutions in the respective director
 👾 Happy coding! 🥷
 
 ---
+If you have any questions or need further assistance, feel free to reach out.
 
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
