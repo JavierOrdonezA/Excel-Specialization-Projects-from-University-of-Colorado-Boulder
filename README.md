@@ -80,3 +80,12 @@ Feel free to explore the projects and their solutions in the respective director
 If you have any questions or need further assistance, feel free to reach out.
 
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
+
+---
+
+Thanks For Watching This Repository!
+
+**KEEP AWESOME & STAY COOL!** 😎
+
+Feel Free To Fork And Report If You Find Any Issue :)
+
