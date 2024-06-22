@@ -69,11 +69,6 @@ The Top Hat Consolidator project involves creating a dashboard to consolidate an
 These projects showcase the practical application of advanced Excel functions and techniques. Through these projects, I have gained valuable skills in data management, dynamic dashboard creation, and the use of VBA for enhanced functionality.
 
 Feel free to explore the projects and their solutions in the respective directories.
-
----
-
-💻 **Explore the repository and the projects within!** 🖥️
-
 👾 Happy coding! 🥷
 ---
 
